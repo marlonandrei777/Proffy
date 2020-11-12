@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/marlonandrei777/Responsive-Angels-Hostels/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257e5&labelColor=000000"></a>
+  <a href="https://github.com/marlonandrei777/Proffy/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257e5&labelColor=000000"></a>
 </p>
 
 ![](.github/proffy.png)
